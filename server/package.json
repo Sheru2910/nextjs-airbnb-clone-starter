@@ -1,5 +1,5 @@
 {
-  "name": "@airbnb-server/server",
+  "name": "@airbnb-server-2/server",
   "private": true,
   "scripts": {
     "start": "nest start",
