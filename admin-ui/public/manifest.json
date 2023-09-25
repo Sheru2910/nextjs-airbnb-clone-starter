@@ -1,6 +1,6 @@
 {
-  "short_name": "airbnb-server-1",
-  "name": "airbnb-server-1",
+  "short_name": "airbnb-server",
+  "name": "airbnb-server",
   "icons": [
     {
       "src": "favicon.ico",
